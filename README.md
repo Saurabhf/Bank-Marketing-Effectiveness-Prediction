@@ -7,8 +7,8 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 <p>This repository includes 1 colab notebook (.ipynb) file and 1 pdf file of project presentation. </p>
 <h4>About Files:</h4>
 <ul>
-<li><b>NYC Taxi Trip Time Prediction Capstone Project.ipynb</b> - This file includes Features description, exploratory data Analysis, feature engineering, feature scaling and implemented algorithms for eg. <b>KNN, Random Forest and LGBM.</b></li> 
- <li><b>NYC_PPT</b> -  This is a power point presentation file of a project. It includes various visualaized plots of EDA using <b>Seaborn and Matplotlib</b>. The result chart of various implemented algorithms.</li>
+<li><b>Bank Marketinf Effectiveness Prediction.ipynb</b> - This file includes Features description, exploratory data Analysis, feature engineering, feature scaling and implemented algorithms for eg. <b>KNN, Random Forest and LGBM.</b></li> 
+ <li><b>Bank_Camoaign_PPT</b> -  This is a power point presentation file of a project. It includes various visualaized plots of EDA using <b>Seaborn and Matplotlib</b>. The result chart of various implemented algorithms.</li>
   
 
 ![------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
